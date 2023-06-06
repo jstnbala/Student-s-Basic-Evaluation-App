@@ -1,4 +1,4 @@
-# Student-s-Basic-Evaluation-App
+# Student-Basic-Evaluation-App
 
 The "Student Evaluation App: Simplify Form Assessments" is developed using Android Studio and Java. 
 It is a simple mobile application that aims to capture different aspects of student performance 
