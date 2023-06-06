@@ -1,4 +1,4 @@
-# Student-s-Basic-Evaluation-App
+# Student-s-Basic-Evaluation-Mobile-App
 
 Student Evaluation App: Form Assessments is developed using Android Studio and Java. It is a simple mobile application that aims to capture different aspects of student performance inside and outside the classroom. Through a form, students can rate themselves on a scale from 1 to 5, with 5 being the highest and 1 being the lowest. The performance is divided into three specific categories: Learning Motivation/Attitude, Learning Objectives, and Behavioral Performance in Class.
 
