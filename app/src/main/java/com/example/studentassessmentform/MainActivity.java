@@ -15,8 +15,7 @@ import android.widget.RadioGroup;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
-    // Declaration of Variables
+    
     String result1a, result1b, result1c, result1d, result2a, result2b, result2c, result2d,
             result3a, result3b, result3c, result3d;
     int score1a, score1b, score1c, score1d, score2a, score2b, score2c, score2d,
